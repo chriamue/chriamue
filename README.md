@@ -5,6 +5,11 @@
 * Image Processing: [lenna-project](github.com/lenna-project)
 * Sensors: [Ultrasonic and Lidar](https://github.com/chriamue/esp32_ultrasonic)
 
+## 🌱 I’m currently learning
+
+ * [Rust](https://doc.rust-lang.org/book/) Programming Language
+ * [Tauri](https://github.com/tauri-apps/tauri)
+
 <!--
 **chriamue/chriamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
