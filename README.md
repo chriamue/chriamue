@@ -10,6 +10,7 @@
  * [Rust](https://doc.rust-lang.org/book/) Programming Language
  * [Tauri](https://github.com/tauri-apps/tauri)
  * [Vue](https://v3.vuejs.org/)
+ * Rust based [WebAssembly](https://rustwasm.github.io/book/)
 
 ## 👯 I’m looking to collaborate on
 
