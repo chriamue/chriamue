@@ -14,8 +14,13 @@
 ## 👯 I’m looking to collaborate on
 
  * Machine Learning projects in Rust
- * Self sovereign idendity like [IOTA Idendity](https://github.com/iotaledger/identity.rs)
+ * Self sovereign identity like [IOTA Identity](https://github.com/iotaledger/identity.rs)
  * Image Processing like [Photon](https://github.com/silvia-odwyer/photon)
+
+## 📫 How to reach me:
+
+  * @gmail.com
+
 
 <!--
 **chriamue/chriamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
