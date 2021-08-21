@@ -9,6 +9,13 @@
 
  * [Rust](https://doc.rust-lang.org/book/) Programming Language
  * [Tauri](https://github.com/tauri-apps/tauri)
+ * [Vue](https://v3.vuejs.org/)
+
+## 👯 I’m looking to collaborate on
+
+ * Machine Learning projects in Rust
+ * Self sovereign idendity like [IOTA Idendity](https://github.com/iotaledger/identity.rs)
+ * Image Processing like [Photon](https://github.com/silvia-odwyer/photon)
 
 <!--
 **chriamue/chriamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
