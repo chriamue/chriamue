@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##  🔭 I’m currently working on
+
+* Image Processing: [lenna-project](github.com/lenna-project)
+* Sensors: [Ultrasonic and Lidar](https://github.com/chriamue/esp32_ultrasonic)
+
 <!--
 **chriamue/chriamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
