@@ -18,6 +18,11 @@
  * Self sovereign identity like [IOTA Identity](https://github.com/iotaledger/identity.rs)
  * Image Processing like [Photon](https://github.com/silvia-odwyer/photon)
 
+## 🚀 Some Tools I Use
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriamue&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriamue&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
+
 ## 📫 How to reach me:
 
   * @gmail.com
