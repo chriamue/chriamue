@@ -2,6 +2,7 @@
 
 ##  🔭 I’m currently working on
 
+* DID Comm: [didcomm-mediator](https://github.com/chriamue/didcomm-mediator)
 * Image Processing: [lenna-project](github.com/lenna-project)
 * Sensors: [Ultrasonic and Lidar](https://github.com/chriamue/esp32_ultrasonic)
 
