@@ -10,7 +10,7 @@
 
  * [Rust](https://doc.rust-lang.org/book/) Programming Language
  * [Tauri](https://github.com/tauri-apps/tauri)
- * [Vue](https://v3.vuejs.org/)
+ * [Yew](https://yew.rs/)
  * [Bevy](https://bevyengine.org/)
  * Rust based [WebAssembly](https://rustwasm.github.io/book/)
 
@@ -28,6 +28,8 @@
 ## 📫 How to reach me:
 
   * @gmail.com
+  * chriamue.eth
+  * chriamue.azero
 
 ## ⚡ Fun fact:
 
